@@ -1,4 +1,4 @@
-<img src="img/main.png" alt="PROJECT MUJIWA" />
+<img src="profile/img/main.png" alt="PROJECT MUJIWA" />
 
 # Vítejte na Github organizaci PROJECT MUJIWA 👋
 
@@ -6,4 +6,4 @@
 
 ## Projekt vytvořila skupina
 
-<img src="img/footer.png" alt="TEAM MUJIWA">
+<img src="profile/img/footer.png" alt="TEAM MUJIWA">
